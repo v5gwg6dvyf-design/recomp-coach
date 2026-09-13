@@ -1,4 +1,4 @@
-const CACHE = "recomp-coach-v1";
+const CACHE = "recomp-coach-v2";
 const ASSETS = [
   "./",
   "./index.html",
